@@ -32,7 +32,7 @@
 
 <a href="https://www.dhananjeyans.in"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://www.linkedin.com/in/dhananjeyan-s-400b0b37b"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto: sec25ec219@sairamtap.edu.in"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/Thanajayan143"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://www.sainextechnologies.site"><img src="https://img.shields.io/badge/SaiNex%20Technologies-24243e?style=for-the-badge&logo=googlechrome&logoColor=A78BFA&labelColor=1a1a2e"/></a>
 
@@ -388,7 +388,7 @@ Open To:
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto: sec25ec219@sairamtap.edu.in"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/dhananjeyan-s-400b0b37b"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Thanajayan143"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.dhananjeyans.in"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
