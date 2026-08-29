@@ -16,6 +16,11 @@
 </picture>
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1LaMYZaxUA/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sainex_technologies) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjeyan-s-400b0b37b?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/53IBnNmKT)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@smartaggaming3556?si=Ns4ACmPpBat5Aof8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sec25ec219@sairamtap.edu.in) 
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Dhananjeyan%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20CEO%20%40%20SaiNex%20Technologies%20%7C%20AI%20%26%20Full%20Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
